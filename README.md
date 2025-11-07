@@ -5,6 +5,7 @@
 Submitted by: **Daphline BELLEUS**
 
 Time spent: **4** hours spent in total
+![Project Simple ToDo_1](https://github.com/user-attachments/assets/ca27088a-d22b-4d4b-b325-51f5bd899e92)
 
 ## User Stories
 
